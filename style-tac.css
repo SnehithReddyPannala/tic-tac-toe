@@ -46,3 +46,21 @@ body{
     border-radius: 1rem;
     border: none;
 }
+#new-btn{
+    font-size:1.2rem;
+    padding:1rem;
+    background-color: #191913;
+    color:ivory;
+    border-radius: 1rem;
+    border: none;
+}
+.hide{
+    display:none;
+}
+main{
+    margin-top:35px;
+}
+#new-btn{
+    margin-top:30px;
+
+}
